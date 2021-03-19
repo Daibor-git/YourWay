@@ -1,0 +1,108 @@
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.Cache
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\System.Net.Http.dll
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\System.Net.Http.xml
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.Cache
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\System.Net.Http.dll
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\System.Net.Http.xml
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\bin\Debug\ru\System.Net.Http.resources.dll
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+C:\Users\Юрий\Desktop\Работа\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.Cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.Cache
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.Cache
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.CoreCompileInputs.cache
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+D:\Резерв\Documents\Visual Studio 2015\Projects\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojResolveAssemblyReference.cache
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+H:\Users\Oleg\Desktop\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csprojAssemblyReference.cache
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.g.cs
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\App.g.cs
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.cache
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask_MarkupCompile.lref
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.exe
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.pdb
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe.config
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.exe
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\BastrikovTask.pdb
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\MainWindow.baml
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.g.resources
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.Properties.Resources.resources
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.GenerateResource.cache
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\AnswerWindow.g.cs
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\AnswerWindow.baml
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\ExcelLibrary.dll
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\BastrikovTask.csproj.CopyComplete
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\MatrixGenerator.exe
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\MatrixGenerator.pdb
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\bin\Debug\MatrixGenerator.exe.config
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\TstLangTerminal.g.cs
+C:\Work\Projects\Учеба\BastrikovTask\BastrikovTask\obj\Debug\TstLangTerminal.baml

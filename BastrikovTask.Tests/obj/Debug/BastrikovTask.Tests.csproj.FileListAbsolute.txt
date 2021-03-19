@@ -1,0 +1,9 @@
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\BastrikovTask.Tests.dll
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\BastrikovTask.Tests.pdb
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\BastrikovTask.exe
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\BastrikovTask.pdb
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\obj\Debug\BastrikovTask.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\obj\Debug\BastrikovTask.Tests.dll
+C:\Projects\Projects\C# Project\BastrikovTask\BastrikovTask.Tests\obj\Debug\BastrikovTask.Tests.pdb

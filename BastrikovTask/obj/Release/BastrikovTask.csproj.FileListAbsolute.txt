@@ -1,0 +1,17 @@
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\BastrikovTask.exe.config
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\BastrikovTask.exe
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\System.Net.Http.dll
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\System.Net.Http.xml
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\bin\Release\ru\System.Net.Http.resources.dll
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\MainWindow.g.cs
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\App.g.cs
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask_MarkupCompile.cache
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask_MarkupCompile.lref
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\MainWindow.baml
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.g.resources
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.Properties.Resources.resources
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.csproj.GenerateResource.Cache
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.exe
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.pdb
+C:\Users\Юрий\Desktop\BastrikovTask\BastrikovTask\obj\Release\BastrikovTask.csprojResolveAssemblyReference.cache

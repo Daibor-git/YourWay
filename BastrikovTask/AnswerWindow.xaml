@@ -1,0 +1,12 @@
+﻿<Window x:Class="BastrikovTask.AnswerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BastrikovTask"
+        mc:Ignorable="d"
+        Title="Результат" Height="500" Width="500" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Name="tbAnswer"  VerticalScrollBarVisibility="Visible"  HorizontalAlignment="Left"  Height="450" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBofsfsfafsafsafasx" VerticalAlignment="Top" Width="474"/>
+    </Grid>
+</Window>
